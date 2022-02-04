@@ -23,7 +23,7 @@ namespace LegndsofCode
         {
             int contador = Convert.ToInt32(cadena[0]);
             List<int> listaNumeros = new List<int>();
-            if ((contador*2) != (cadena.Length +1))
+            if ((contador*2) + 1 != (cadena.Length))
             {
                 throw new Exception();
             } else
