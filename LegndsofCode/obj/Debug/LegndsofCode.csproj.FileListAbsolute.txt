@@ -1,0 +1,6 @@
+D:\Usuarios\cpantoja\source\repos\LegndsofCode\bin\Debug\LegndsofCode.exe.config
+D:\Usuarios\cpantoja\source\repos\LegndsofCode\bin\Debug\LegndsofCode.exe
+D:\Usuarios\cpantoja\source\repos\LegndsofCode\bin\Debug\LegndsofCode.pdb
+D:\Usuarios\cpantoja\source\repos\LegndsofCode\obj\Debug\LegndsofCode.csprojAssemblyReference.cache
+D:\Usuarios\cpantoja\source\repos\LegndsofCode\obj\Debug\LegndsofCode.exe
+D:\Usuarios\cpantoja\source\repos\LegndsofCode\obj\Debug\LegndsofCode.pdb
